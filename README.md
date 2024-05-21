@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**aninhamuniz/aninhamuniz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Vitória💖
 
-Here are some ideas to get you started:
+Estou usando o [Alura] (https://www.alura.com.br)
+Estou desenvolvendo a linguagem JavaScripit
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entra em contato comigo👍😉
+
+00001088714110sp@aluno.educacao.sp.gov.br
+
+@AninhaMuniz
+
+![](https://media1.tenor.com/m/7e0heoGVzq4AAAAd/dancinha-de-celebra%C3%A7ao-cbf.gif)
